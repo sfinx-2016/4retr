@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    color: rgba(255, 255, 255, 1);
+    background-image: url(Backround\ \(3\).png);
+    text-align: center;
+    display: flex;
+justify-content:space-evenly ;
+}
+
+
+.text {
+    text-align: center;
+    background-color: gray;
+    color:  white;
+}
+
+button {
+    width: 120px;
+    height: 30px;
+    font-size: 20px;
+border-radius: 50px;
+background-color: rgba(0, 180, 61, 1);
+}
